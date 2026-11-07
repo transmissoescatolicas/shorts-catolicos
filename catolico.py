@@ -452,7 +452,7 @@ EXCLUIR_IMG = re.compile(r"wiki(media|pedia|data)|logo|coat of arms|brasão|bras
                          r"\bQR\b|\bchart\b|gráfico|floor plan|planta", re.I)
 EXCLUIR_AUDIO = re.compile(r"^File:LL-|Rohdaten|audiobook|audiolivro|audio ?book|podcast|interview|entrevista|"
                            r"spoken|pronunciation|pronúncia|wikipedia|lecture|palestra|news|ringtone|"
-                           r"national anthem|hino nacional|\bmidi\b", re.I)
+                           r"anthem|hino nacional|himno|imperio|empire|\bmidi\b", re.I)
 
 
 def _meta(meta: dict, campo: str, n: int = 160) -> str:
@@ -1289,7 +1289,7 @@ Gravações disponíveis (licenças livres, Wikimedia Commons):
 Escolhe a MELHOR: música sacra ou de inspiração cristã, interpretação completa (coro, órgão, orquestra ou solista), sem fala nem ruído, e que não seja um excerto de poucos segundos nem um ficheiro MIDI. Se nenhuma servir, "indice" = -1.
 Devolve JSON com:
 - "indice": número da gravação escolhida.
-- "titulo": nome da obra e compositor (ex.: "Ave Verum Corpus — W. A. Mozart").
+- "titulo": nome da obra e compositor (ex.: "Ave Verum Corpus — W. A. Mozart"). Usa só o que consta do nome ou da descrição do ficheiro: não acrescentes "gregoriano" nem um compositor que lá não esteja.
 - "subtitulo": máx. 6 palavras (ex.: "Coro e órgão · Música sacra").
 - "texto_ecra": 1 ou 2 frases curtas (máx. 22 palavras) sobre o sentido da obra ou do seu texto, para mostrar no ecrã. Sem inventar datas.
 {REGRAS_COMUNS}""", cfg, ESQ_MUSICA)
