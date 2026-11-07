@@ -1,20 +1,20 @@
 # ============================================================
-#  Configuração do canal "Transmissões Católicas"
+#  Configuração do canal "Transmissões Católicas" (público do Brasil)
 #  Podes editar este ficheiro diretamente no GitHub (ícone do lápis ✏️).
 # ============================================================
 
 canal:
   nome: "Transmissões Católicas"           # aparece no topo do vídeo
-  chamada_final: "Subscreve o canal e reza connosco."
+  chamada_final: "Inscreva-se no canal e reze conosco."
+  convite_oracao: "Reze conosco"           # aparece nos vídeos de oração
 
 voz:
-  # Vozes portuguesas do Microsoft Edge (gratuitas):
-  #   pt-PT-DuarteNeural (masculina)  |  pt-PT-RaquelNeural (feminina)
-  #   (Brasil: pt-BR-AntonioNeural / pt-BR-FranciscaNeural — muda também "idioma" em baixo)
-  nome: "pt-PT-DuarteNeural"
-  velocidade: "-4%"                        # um pouco mais pausada, para oração
-  # voz usada nas orações (pode ser a mesma)
-  nome_oracao: "pt-PT-RaquelNeural"
+  # Vozes do Microsoft Edge (gratuitas):
+  #   Brasil:   pt-BR-AntonioNeural (masculina) | pt-BR-FranciscaNeural (feminina) | pt-BR-ThalitaMultilingualNeural
+  #   Portugal: pt-PT-DuarteNeural | pt-PT-RaquelNeural
+  nome: "pt-BR-AntonioNeural"
+  velocidade: "-3%"                        # um pouco mais pausada, para oração
+  nome_oracao: "pt-BR-FranciscaNeural"     # voz das orações
 
 ia:
   # Modelos Gemini tentados por ordem (se um falhar ou esgotar a quota, passa ao seguinte)
@@ -24,21 +24,23 @@ ia:
     - "gemini-3.1-flash-lite"
 
 idioma:
-  liturgia: "PT"            # textos litúrgicos do Evangelho Quotidiano: "PT" (Portugal) ou "BR" (Brasil)
+  liturgia: "BR"            # "BR" = Liturgia Diária da CNBB (Brasil) | "PT" = Evangelho Quotidiano (Portugal)
   wikipedia: "pt"
-  variante: "português de Portugal"   # como a IA deve escrever
+  variante: "português do Brasil"     # como a IA deve escrever
+  pais: "Brasil"                      # público principal do canal
+  fuso: "America/Sao_Paulo"           # hora de Brasília (os horários abaixo estão neste fuso)
 
 agenda:
-  # Publicação automática (hora de Lisboa). Cada horário tem o seu formato:
+  # Publicação automática (hora de Brasília). Cada horário tem o seu formato:
   #   evangelho | santo | oracao | musica | papa | leitura
   # Se um formato não tiver conteúdo novo, o sistema usa outro (ver "reserva").
   horarios:
-    - { hora: "07:07", formato: "evangelho" }
-    - { hora: "10:07", formato: "santo" }
-    - { hora: "13:07", formato: "papa" }
-    - { hora: "16:07", formato: "musica" }
-    - { hora: "19:07", formato: "oracao" }
-    - { hora: "22:07", formato: "musica" }
+    - { hora: "06:07", formato: "evangelho" }   # para quem reza logo cedo
+    - { hora: "09:07", formato: "santo" }
+    - { hora: "12:07", formato: "papa" }        # Palavra do Papa / Igreja no Brasil
+    - { hora: "15:07", formato: "musica" }
+    - { hora: "18:07", formato: "oracao" }      # hora da Ave-Maria / Angelus
+    - { hora: "21:07", formato: "musica" }
   reserva: ["leitura", "oracao", "musica", "santo"]
 
 imagens:
@@ -89,10 +91,15 @@ musica:
     - "Ave Maria violin"
 
 papa:
-  horas_max: 72                 # só notícias dos últimos X dias/horas
+  horas_max: 72                 # só notícias dos últimos 3 dias
+  palavras: "130 a 200"         # tamanho da narração (cerca de 1 a 1,5 minutos)
+  prioridade: "palavras do Papa (Angelus, audiência geral, homilia, mensagem), depois a Igreja no Brasil (CNBB, Aparecida, dioceses brasileiras, grandes celebrações e romarias), depois grandes acontecimentos da Igreja no mundo"
   fontes:
     - { nome: "Vatican News",      url: "https://www.vaticannews.va/pt.rss.xml" }
-    - { nome: "Agência Ecclesia",  url: "https://agencia.ecclesia.pt/portal/feed/" }
+    - { nome: "CNBB",              url: "https://www.cnbb.org.br/feed/" }
+    - { nome: "Canção Nova",       url: "https://noticias.cancaonova.com/feed/" }
+    - { nome: "Aleteia",           url: "https://pt.aleteia.org/feed/" }
+    - { nome: "ACI Digital",       url: "https://www.acidigital.com/rss/rss.php" }
 
 youtube:
   # modo:
@@ -101,7 +108,7 @@ youtube:
   #   "privado"  -> fica privado; publicas tu no YouTube Studio
   modo: "publico"
   horas_revisao: 1
-  categoria: "22"               # 22 = Pessoas e blogues (a música usa 10 = Música)
-  idioma: "pt-PT"
+  categoria: "22"               # 22 = Pessoas e blogs (a música usa 10 = Música)
+  idioma: "pt-BR"
   marcar_conteudo_sintetico: false
   notificar_inscritos: false
