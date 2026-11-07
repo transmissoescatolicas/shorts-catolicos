@@ -1,0 +1,162 @@
+name: Vídeos católicos
+run-name: ${{ github.event_name == 'schedule' && 'Vigia da publicação automática' || (inputs.apenas_esperar && 'Vídeo automático (à espera)') || (inputs.cadeia && 'Vídeo automático') || 'Vídeos católicos (manual)' }}
+
+# Publicação automática: cada "Vídeo automático", ao terminar, espera pelo próximo horário
+# (secção "agenda" do config.yaml, hora de Lisboa) e lança o seguinte.
+# Para PARAR: em Actions, cancela a execução "Vídeo automático" que estiver a correr
+#             (e desativa este workflow, para a vigia não o voltar a ligar).
+# Para LIGAR: "Run workflow" com "Publicar" e "Ligar a publicação automática" marcados.
+
+on:
+  schedule:
+    # Vigia: se a cadeia automática parar, volta a ligá-la.
+    - cron: "41 * * * *"
+  workflow_dispatch:
+    inputs:
+      publicar:
+        description: "Publicar no YouTube? (desmarcado = só cria um vídeo de teste)"
+        type: boolean
+        default: false
+      formato:
+        description: "Formato do vídeo (auto = conforme o horário do config.yaml)"
+        type: choice
+        options: [auto, evangelho, santo, oracao, musica, papa, leitura]
+        default: auto
+      modo_publicacao:
+        description: "Como publicar (se marcado acima): config = o que está no config.yaml"
+        type: choice
+        options: [config, privado, agendado, publico]
+        default: config
+      cadeia:
+        description: "Ligar a publicação automática (vídeos nos horários do config.yaml)"
+        type: boolean
+        default: false
+      apenas_esperar:
+        description: "(Interno) Só esperar pelo próximo horário, sem criar vídeo"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  video:
+    if: github.event_name == 'workflow_dispatch' && !inputs.apenas_esperar
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    concurrency:
+      group: shorts-catolicos
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Fontes (cache)
+        uses: actions/cache@v6
+        with:
+          path: assets/fonts
+          key: fontes-v2
+
+      - name: Criar (e publicar) o vídeo
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          MODO_YT: ${{ inputs.modo_publicacao || 'config' }}
+          FORMATO: ${{ inputs.formato || 'auto' }}
+        run: |
+          if [ "${{ inputs.publicar }}" != "true" ]; then
+            python catolico.py --sem-upload
+          else
+            python catolico.py
+          fi
+
+      - name: Guardar o vídeo (para veres/descarregares)
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: video-${{ github.run_number }}
+          path: |
+            saida/*.mp4
+            saida/ultimo.json
+          retention-days: 5
+          if-no-files-found: ignore
+
+      - name: Atualizar histórico (para não repetir)
+        if: success()
+        run: |
+          git config user.name "catolico-bot"
+          git config user.email "catolico-bot@users.noreply.github.com"
+          if [ ! -f data/historico.json ]; then
+            echo "Sem histórico novo (modo de teste)."
+            exit 0
+          fi
+          git add data/historico.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Histórico: novo vídeo publicado"
+            git pull --rebase --quiet || true
+            git push
+          fi
+
+  proximo:
+    needs: video
+    if: ${{ !cancelled() && github.event_name == 'workflow_dispatch' && inputs.cadeia }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Esperar pelo próximo horário e lançar o vídeo seguinte
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          S=$(python3 agenda.py)
+          LIMITE=18000   # um trabalho do GitHub dura no máximo 6 h: esperas maiores passam a outra execução
+          if [ "$S" -gt "$LIMITE" ]; then
+            echo "Próximo vídeo daqui a $((S / 60)) min: espero $((LIMITE / 60)) min e passo a vez."
+            sleep "$LIMITE"
+            EXTRA="-f apenas_esperar=true"
+          else
+            echo "Próximo vídeo daqui a $((S / 60)) min."
+            sleep "$S"
+            EXTRA=""
+          fi
+          # se entretanto foi ligada outra cadeia mais recente, esta termina (evita vídeos a dobrar)
+          OUTRAS=$(gh run list --workflow catolico.yml --limit 30 --json databaseId,status,displayTitle \
+            --jq "[.[] | select(.displayTitle | test(\"automático\")) | select(.status != \"completed\") | select(.databaseId > ${{ github.run_id }})] | length")
+          if [ "$OUTRAS" != "0" ]; then
+            echo "Já há outra execução automática mais recente; esta termina aqui."
+            exit 0
+          fi
+          gh workflow run catolico.yml --ref "${{ github.ref_name }}" -f publicar=true -f cadeia=true $EXTRA
+          echo "Lançado o próximo vídeo automático."
+
+  vigia:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Voltar a ligar a publicação automática se tiver parado
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ATIVAS=$(gh run list -R "${{ github.repository }}" --workflow catolico.yml --limit 40 --json status,displayTitle,createdAt \
+            --jq '[.[] | select(.displayTitle | test("automático")) | select(.status != "completed" or (now - (.createdAt | fromdateiso8601)) < 3600)] | length')
+          if [ "$ATIVAS" = "0" ]; then
+            echo "A publicação automática estava parada: a ligar de novo."
+            gh workflow run catolico.yml -R "${{ github.repository }}" --ref "${{ github.event.repository.default_branch }}" -f publicar=true -f cadeia=true
+          else
+            echo "A publicação automática está a funcionar."
+          fi
