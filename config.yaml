@@ -1,0 +1,107 @@
+# ============================================================
+#  Configuração do canal "Transmissões Católicas"
+#  Podes editar este ficheiro diretamente no GitHub (ícone do lápis ✏️).
+# ============================================================
+
+canal:
+  nome: "Transmissões Católicas"           # aparece no topo do vídeo
+  chamada_final: "Subscreve o canal e reza connosco."
+
+voz:
+  # Vozes portuguesas do Microsoft Edge (gratuitas):
+  #   pt-PT-DuarteNeural (masculina)  |  pt-PT-RaquelNeural (feminina)
+  #   (Brasil: pt-BR-AntonioNeural / pt-BR-FranciscaNeural — muda também "idioma" em baixo)
+  nome: "pt-PT-DuarteNeural"
+  velocidade: "-4%"                        # um pouco mais pausada, para oração
+  # voz usada nas orações (pode ser a mesma)
+  nome_oracao: "pt-PT-RaquelNeural"
+
+ia:
+  # Modelos Gemini tentados por ordem (se um falhar ou esgotar a quota, passa ao seguinte)
+  modelos:
+    - "gemini-3.8-flash"
+    - "gemini-3.5-flash-lite"
+    - "gemini-3.1-flash-lite"
+
+idioma:
+  liturgia: "PT"            # textos litúrgicos do Evangelho Quotidiano: "PT" (Portugal) ou "BR" (Brasil)
+  wikipedia: "pt"
+  variante: "português de Portugal"   # como a IA deve escrever
+
+agenda:
+  # Publicação automática (hora de Lisboa). Cada horário tem o seu formato:
+  #   evangelho | santo | oracao | musica | papa | leitura
+  # Se um formato não tiver conteúdo novo, o sistema usa outro (ver "reserva").
+  horarios:
+    - { hora: "07:07", formato: "evangelho" }
+    - { hora: "10:07", formato: "santo" }
+    - { hora: "13:07", formato: "papa" }
+    - { hora: "16:07", formato: "musica" }
+    - { hora: "19:07", formato: "oracao" }
+    - { hora: "22:07", formato: "musica" }
+  reserva: ["leitura", "oracao", "musica", "santo"]
+
+imagens:
+  quantidade: 5                 # nº de imagens (arte sacra em domínio público) por vídeo narrado
+  quantidade_musica: 8          # nº de imagens nos vídeos de música
+
+musica:
+  # Música sacra com licença livre (domínio público / CC) do Wikimedia Commons.
+  # Nada de músicas comerciais: evitam-se reclamações de direitos de autor e "strikes".
+  duracao_max: 150              # segundos de música por vídeo (Shorts até 3 min)
+  duracao_min_peca: 50          # ignora gravações mais curtas do que isto
+  musica_de_fundo: true         # música suave por baixo da narração (volume baixo)
+  pesquisas:
+    - { q: "Ave Maria Schubert", tema: "Virgin Mary painting" }
+    - { q: "Ave Maria Gounod", tema: "Madonna painting Raphael" }
+    - { q: "Ave Maria Arcadelt", tema: "Annunciation painting" }
+    - { q: "Ave Maria Caccini", tema: "Virgin Mary painting Murillo" }
+    - { q: "Ave verum corpus", tema: "Eucharist painting" }
+    - { q: "Panis angelicus", tema: "Last Supper painting" }
+    - { q: "Agnus Dei Palestrina", tema: "Lamb of God painting" }
+    - { q: "Agnus Dei Byrd", tema: "Crucifixion painting" }
+    - { q: "Kyrie gregorian", tema: "Christ Pantocrator mosaic" }
+    - { q: "Pange lingua", tema: "Eucharistic adoration monstrance" }
+    - { q: "Tantum ergo", tema: "monstrance Blessed Sacrament" }
+    - { q: "Salve Regina", tema: "Coronation of the Virgin painting" }
+    - { q: "Regina caeli", tema: "Resurrection of Christ painting" }
+    - { q: "Magnificat", tema: "Visitation painting" }
+    - { q: "Stabat Mater", tema: "Pieta painting" }
+    - { q: "Miserere Allegri", tema: "Sistine Chapel ceiling" }
+    - { q: "Veni Creator", tema: "Pentecost painting" }
+    - { q: "Adeste fideles", tema: "Nativity painting" }
+    - { q: "Gloria Vivaldi", tema: "angels painting" }
+    - { q: "Laudate Dominum Mozart", tema: "angels choir painting" }
+    - { q: "Jesu joy of man's desiring", tema: "Christ painting" }
+    - { q: "Bach chorale prelude organ", tema: "cathedral interior" }
+    - { q: "Mass in B minor Bach", tema: "cathedral nave" }
+    - { q: "Requiem Mozart Lacrimosa", tema: "Lamentation of Christ painting" }
+    - { q: "Gregorian chant", tema: "monastery cloister" }
+    - { q: "Ave maris stella", tema: "Virgin Mary star of the sea" }
+    - { q: "Te Deum", tema: "cathedral interior baroque" }
+    - { q: "Benedictus", tema: "Baptism of Christ painting" }
+  fundo:                         # pesquisas para a música de fundo (instrumental)
+    - "organ chorale prelude"
+    - "Bach organ prelude"
+    - "Pachelbel canon"
+    - "Air on the G String"
+    - "harp instrumental"
+    - "Ave Maria violin"
+
+papa:
+  horas_max: 72                 # só notícias dos últimos X dias/horas
+  fontes:
+    - { nome: "Vatican News",      url: "https://www.vaticannews.va/pt.rss.xml" }
+    - { nome: "Agência Ecclesia",  url: "https://agencia.ecclesia.pt/portal/feed/" }
+
+youtube:
+  # modo:
+  #   "publico"  -> publica de imediato
+  #   "agendado" -> envia como privado e publica sozinho depois de X horas
+  #   "privado"  -> fica privado; publicas tu no YouTube Studio
+  modo: "publico"
+  horas_revisao: 1
+  categoria: "22"               # 22 = Pessoas e blogues (a música usa 10 = Música)
+  idioma: "pt-PT"
+  marcar_conteudo_sintetico: false
+  notificar_inscritos: false
