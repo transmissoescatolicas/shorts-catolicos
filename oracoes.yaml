@@ -1,0 +1,156 @@
+# Orações tradicionais (português de Portugal) usadas nos vídeos de oração.
+# Podes acrescentar orações: "titulo", "texto" e "imagens" (pesquisas em inglês no Wikimedia Commons).
+
+- id: pai-nosso
+  titulo: "Pai Nosso"
+  imagens: ["Sermon on the Mount painting", "Christ praying painting", "Jesus teaching painting"]
+  texto: >-
+    Pai nosso, que estais nos Céus, santificado seja o vosso nome; venha a nós o vosso reino;
+    seja feita a vossa vontade, assim na terra como no Céu. O pão nosso de cada dia nos dai hoje;
+    perdoai-nos as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido;
+    e não nos deixeis cair em tentação, mas livrai-nos do mal. Ámen.
+
+- id: ave-maria
+  titulo: "Avé Maria"
+  imagens: ["Annunciation painting", "Virgin Mary painting", "Madonna and Child painting"]
+  texto: >-
+    Avé Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres,
+    e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores,
+    agora e na hora da nossa morte. Ámen.
+
+- id: salve-rainha
+  titulo: "Salve Rainha"
+  imagens: ["Coronation of the Virgin painting", "Madonna of Mercy painting", "Our Lady of Fatima statue"]
+  texto: >-
+    Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos,
+    os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas.
+    Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E, depois deste desterro,
+    mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.
+    Rogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo. Ámen.
+
+- id: anjo-de-fatima
+  titulo: "Oração do Anjo de Fátima"
+  imagens: ["Fatima sanctuary", "Our Lady of Fatima statue", "Chapel of the Apparitions Fatima"]
+  texto: >-
+    Meu Deus, eu creio, adoro, espero e amo-Vos. Peço-Vos perdão para os que não creem, não adoram,
+    não esperam e não Vos amam. Meu Deus, eu creio, adoro, espero e amo-Vos. Peço-Vos perdão para os que
+    não creem, não adoram, não esperam e não Vos amam. Meu Deus, eu creio, adoro, espero e amo-Vos.
+    Peço-Vos perdão para os que não creem, não adoram, não esperam e não Vos amam.
+
+- id: santissima-trindade-fatima
+  titulo: "Oração do Anjo à Santíssima Trindade"
+  imagens: ["Holy Trinity painting", "Eucharist monstrance", "Fatima basilica"]
+  texto: >-
+    Santíssima Trindade, Pai, Filho, Espírito Santo, adoro-Vos profundamente e ofereço-Vos o preciosíssimo
+    Corpo, Sangue, Alma e Divindade de Jesus Cristo, presente em todos os sacrários da terra, em reparação
+    dos ultrajes, sacrilégios e indiferenças com que Ele mesmo é ofendido. E pelos méritos infinitos do seu
+    Santíssimo Coração e do Coração Imaculado de Maria, peço-Vos a conversão dos pobres pecadores.
+
+- id: o-meu-jesus
+  titulo: "Ó meu Jesus (oração de Fátima)"
+  imagens: ["Sacred Heart of Jesus painting", "Fatima sanctuary", "rosary"]
+  texto: >-
+    Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno; levai as alminhas todas para o Céu,
+    principalmente aquelas que mais precisarem.
+
+- id: anjo-da-guarda
+  titulo: "Oração ao Anjo da Guarda"
+  imagens: ["guardian angel painting", "angel painting baroque"]
+  texto: >-
+    Santo Anjo do Senhor, meu zeloso guardador, a quem Deus me confiou por sua divina piedade,
+    sempre me rege, guarda, governa e ilumina. Ámen.
+
+- id: sao-miguel
+  titulo: "Oração a São Miguel Arcanjo"
+  imagens: ["Saint Michael archangel painting", "Michael archangel Guido Reni", "Saint Michael statue"]
+  texto: >-
+    São Miguel Arcanjo, defendei-nos no combate; sede o nosso auxílio contra a maldade e as ciladas do demónio.
+    Instante e humildemente vos pedimos que Deus sobre ele impere; e vós, príncipe da milícia celeste,
+    com esse poder divino, precipitai no inferno a Satanás e a todos os espíritos malignos que andam pelo mundo
+    para perder as almas. Ámen.
+
+- id: credo
+  titulo: "Credo (Símbolo dos Apóstolos)"
+  imagens: ["Twelve Apostles painting", "Pentecost painting", "Christ Pantocrator mosaic"]
+  texto: >-
+    Creio em Deus, Pai todo-poderoso, Criador do Céu e da Terra; e em Jesus Cristo, seu único Filho, nosso Senhor,
+    que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria; padeceu sob Pôncio Pilatos,
+    foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos Céus,
+    está sentado à direita de Deus Pai todo-poderoso, de onde há de vir a julgar os vivos e os mortos.
+    Creio no Espírito Santo, na santa Igreja Católica, na comunhão dos Santos, na remissão dos pecados,
+    na ressurreição da carne e na vida eterna. Ámen.
+
+- id: ato-de-contricao
+  titulo: "Ato de Contrição"
+  imagens: ["Return of the Prodigal Son painting", "penitent Saint Peter painting", "confessional church"]
+  texto: >-
+    Meu Deus, porque sois infinitamente bom e Vos amo de todo o meu coração, pesa-me de Vos ter ofendido
+    e, com o auxílio da vossa divina graça, proponho firmemente emendar-me e nunca mais Vos tornar a ofender.
+    Peço e espero o perdão das minhas culpas pela vossa infinita misericórdia. Ámen.
+
+- id: lembrai-vos
+  titulo: "Lembrai-vos (Memorare)"
+  imagens: ["Madonna of Mercy painting", "Virgin Mary painting Murillo", "Pieta sculpture"]
+  texto: >-
+    Lembrai-vos, ó piíssima Virgem Maria, que nunca se ouviu dizer que algum daqueles que têm recorrido
+    à vossa proteção, implorado a vossa assistência e reclamado o vosso socorro, fosse por vós desamparado.
+    Animado eu, pois, de igual confiança, a vós, ó Virgem entre todas singular, como a Mãe recorro,
+    de vós me valho e, gemendo sob o peso dos meus pecados, me prostro aos vossos pés.
+    Não rejeiteis as minhas súplicas, ó Mãe do Verbo de Deus humanado, mas dignai-vos de as ouvir propícia
+    e de me alcançar o que vos rogo. Ámen.
+
+- id: vinde-espirito-santo
+  titulo: "Vinde, Espírito Santo"
+  imagens: ["Pentecost painting", "Holy Spirit dove stained glass", "Holy Spirit dove Bernini"]
+  texto: >-
+    Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do vosso amor.
+    Enviai o vosso Espírito e tudo será criado. E renovareis a face da terra. Oremos: Ó Deus, que instruístes
+    os corações dos vossos fiéis com a luz do Espírito Santo, concedei-nos que, no mesmo Espírito,
+    saibamos o que é reto e gozemos sempre da sua consolação. Por Cristo, Senhor nosso. Ámen.
+
+- id: alma-de-cristo
+  titulo: "Alma de Cristo"
+  imagens: ["Crucifixion painting", "Christ crucified Velazquez", "Eucharist painting"]
+  texto: >-
+    Alma de Cristo, santificai-me. Corpo de Cristo, salvai-me. Sangue de Cristo, inebriai-me.
+    Água do lado de Cristo, lavai-me. Paixão de Cristo, confortai-me. Ó bom Jesus, ouvi-me.
+    Dentro das vossas chagas, escondei-me. Não permitais que me separe de Vós. Do espírito maligno, defendei-me.
+    Na hora da morte, chamai-me e mandai-me ir para Vós, para que com os vossos Santos Vos louve,
+    por todos os séculos dos séculos. Ámen.
+
+- id: oracao-pela-paz
+  titulo: "Oração pela Paz (atribuída a São Francisco)"
+  imagens: ["Saint Francis of Assisi painting", "Saint Francis Giotto", "Assisi basilica"]
+  texto: >-
+    Senhor, fazei de mim um instrumento da vossa paz. Onde houver ódio, que eu leve o amor;
+    onde houver ofensa, que eu leve o perdão; onde houver discórdia, que eu leve a união;
+    onde houver dúvida, que eu leve a fé; onde houver erro, que eu leve a verdade;
+    onde houver desespero, que eu leve a esperança; onde houver tristeza, que eu leve a alegria;
+    onde houver trevas, que eu leve a luz. Ó Mestre, fazei que eu procure mais consolar que ser consolado;
+    compreender que ser compreendido; amar que ser amado. Pois é dando que se recebe,
+    é perdoando que se é perdoado, e é morrendo que se vive para a vida eterna.
+
+- id: angelus
+  titulo: "Anjo do Senhor (Angelus)"
+  imagens: ["The Angelus Millet", "Annunciation painting Fra Angelico", "Annunciation painting"]
+  texto: >-
+    O Anjo do Senhor anunciou a Maria. E ela concebeu do Espírito Santo.
+    Avé Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto
+    do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Ámen.
+    Eis a escrava do Senhor. Faça-se em mim segundo a vossa palavra.
+    Avé Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto
+    do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Ámen.
+    E o Verbo fez-se carne. E habitou entre nós.
+    Avé Maria, cheia de graça, o Senhor é convosco; bendita sois vós entre as mulheres, e bendito é o fruto
+    do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Ámen.
+    Rogai por nós, Santa Mãe de Deus. Para que sejamos dignos das promessas de Cristo.
+    Oremos: Infundi, Senhor, nós Vos pedimos, a vossa graça em nossas almas, para que nós, que pela anunciação
+    do Anjo conhecemos a encarnação de Cristo, vosso Filho, pela sua paixão e morte na cruz sejamos conduzidos
+    à glória da ressurreição. Pelo mesmo Cristo, Senhor nosso. Ámen.
+
+- id: gloria
+  titulo: "Glória ao Pai"
+  imagens: ["Holy Trinity painting", "Adoration of the Trinity Durer", "angels glory painting"]
+  texto: >-
+    Glória ao Pai, ao Filho e ao Espírito Santo. Como era no princípio, agora e sempre,
+    por todos os séculos dos séculos. Ámen.
