@@ -1026,7 +1026,7 @@ def montar(itens: list, audio, ass, grafico, dur_audio: float, pasta, saida, fun
     if fundo_musical:
         entradas += ["-stream_loop", "-1", "-i", str(fundo_musical)]
         som = (f"[2:a]loudnorm=I=-15:TP=-1.5:LRA=11,aresample=48000,apad[voz];"
-               f"[3:a]loudnorm=I=-33:TP=-10,aresample=48000,afade=t=in:d=1.5,"
+               f"[3:a]loudnorm=I=-32:TP=-9,aresample=48000,afade=t=in:d=1.5,"
                f"afade=t=out:st={max(0.5, total - 2.5):.2f}:d=2.5[mus];"
                f"[voz][mus]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]")
     else:
