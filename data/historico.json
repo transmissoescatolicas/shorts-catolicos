@@ -55,5 +55,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-uruguai-encontro-clero-catedral-imaculada-felipe-tiago.html"
+ },
+ {
+  "data": "2026-11-07T18:11:42.479052+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Magnificat — Antonio Vivaldi | Música Sacra",
+  "video_id": "d5LbvNGcfEA",
+  "imagens": [
+   "File:Visitation, Life of Mary Series - Madonna della Strada Chapel.jpg",
+   "File:The Visitation - Peter Paul Rubens.jpg",
+   "File:Sandro Botticelli - Madonna of the Magnificat (Madonna del Magnificat) - WGA2714.jpg",
+   "File:Interior of Chiesa dei Gesuiti (Venice) - High altar - Tabernacle by Jacopo Antonio Pozzo.jpg",
+   "File:Altar-mor da Basílica de Nossa Senhora do Carmo, Recife, Pernambuco, Brasil.jpg",
+   "File:Baroque altar of Saint Anthony in the church in Truskolasy.jpg",
+   "File:(Castres) Alonso Cano - La Visitation - Musée Goya.jpg",
+   "File:Interior da Catedral de Amiens by Jules Victor Genisson, 1842.jpg"
+  ],
+  "musica": "File:Vivaldi - Magnificat 01 Magnificat.oga",
+  "busca_musica": "Magnificat",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
