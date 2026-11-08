@@ -118,5 +118,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-08T09:14:48.088628+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-08",
+  "titulo": "Evangelho do Dia 08/11 | Portanto ficai vigiando pois não sabeis (Mt 25,1-13)",
+  "video_id": "x9eiv4s0fMQ",
+  "imagens": [
+   "File:(Venice) The Parable of the Wise and Foolish Virgins by Alessandro Varotari - Gallerie Accademia.jpg",
+   "File:Hieronymus Francken (II) - Parable of the Wise and Foolish Virgins - WGA08217.jpg",
+   "File:Francken, Hieronymus the Younger - Parable of the Wise and Foolish Virgins - c. 1616.jpg",
+   "File:Blake Wise And Foolish Virgins 1826.jpg",
+   "File:Ernest Karlovich Lipgart - The Parable of the Wise and Foolish Virgins, 1886.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
