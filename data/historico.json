@@ -156,5 +156,24 @@
   "oracao": null,
   "santo": "São Martinho de Tours",
   "link": null
+ },
+ {
+  "data": "2026-11-08T15:10:20.909645+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Papa aos cristãos uruguaios: não se cansem de transmitir a fé",
+  "video_id": "qMCf9ONmBf4",
+  "imagens": [
+   "File:Catedral de Florida.jpg",
+   "File:Pope Leo XIV 1.png",
+   "File:Pope Leo XIV 4.png",
+   "File:Pope Leo XIV Waving.jpg",
+   "File:Basilica Sancti Petri blue hour.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-homilia-missa-santuario-virgem-trinta-tres-uruguai-maria.html"
  }
 ]
