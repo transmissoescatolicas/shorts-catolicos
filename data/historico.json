@@ -197,5 +197,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-08T21:13:40.707202+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "Creio (Símbolo dos Apóstolos) | Reze conosco",
+  "video_id": "6h6YLKrm-rA",
+  "imagens": [
+   "File:01 Trinity Episcopal Tulsa (Apostles Creed 1, Annunciation) Frederick Cole.jpg",
+   "File:11 Trinity Episcopal Tulsa (Apostles Creed Complete) Frederick Cole.jpg",
+   "File:04 Trinity Episcopal Tulsa (Apostles' Creed 4 Crucified) Frederick Cole.jpg",
+   "File:Samuel van Hoogstraten - Resurrection of Christ - 1969.110 - Art Institute of Chicago.jpg",
+   "File:Saint Aloysius Church (Columbus, Ohio) - stained glass, The holy Catholic Church, The Communion of Saints.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "credo",
+  "santo": null,
+  "link": null
  }
 ]
