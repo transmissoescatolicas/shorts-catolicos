@@ -175,5 +175,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-homilia-missa-santuario-virgem-trinta-tres-uruguai-maria.html"
+ },
+ {
+  "data": "2026-11-08T18:15:40.918201+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Ave Maria — Charles Gounod e Johann Sebastian Bach | Música Sacra",
+  "video_id": "Wq_8aa-dDZw",
+  "imagens": [
+   "File:Annunciation (Leonardo).jpg",
+   "File:ANGELICO, Fra Annunciation, 1437-46 (2236990916).jpg",
+   "File:Madonna and child with St Peter and St. Sebastian by Giovanni Bellini - Louvre (MI 231).jpg",
+   "File:The Madonna and Child in a landscape (Dudley Madonna) - Giovanni Bellini.jpg",
+   "File:The Virgin and Child (by Bartolomé Esteban Murillo).jpg",
+   "File:Murillo - Virgin of the Immaculate Conception, ca. 1670.png",
+   "File:Bartolomé Esteban Perez Murillo - Virgin and Child with St Rosalina of Palermo - WGA16389.jpg",
+   "File:Bartolomé Esteban Murillo - Virgin and Child in Glory - Google Art Project.jpg"
+  ],
+  "musica": "File:JOHN MICHEL CELLO-BACH AVE MARIA.ogg",
+  "busca_musica": "Ave Maria Caccini",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
