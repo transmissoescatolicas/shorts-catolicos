@@ -238,5 +238,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-09T09:13:09.207447+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-09",
+  "titulo": "Evangelho do Dia 09/11 | Não façais da casa de meu Pai uma casa de comércio (Jo 2,13-22)",
+  "video_id": "fU-MIvI6Yc8",
+  "imagens": [
+   "File:Bellotto Jesus Cleansing the Temple.jpg",
+   "File:El Greco follower - Jesus Cleansing the Temple MLGMF01527.JPG",
+   "File:Luca Giordano - Christ Cleansing the Temple - WGA09000.jpg",
+   "File:El Greco (Domenikos Theotokopoulos), Christ Cleansing the Temple, probably before 1570, NGA 43723.jpg",
+   "File:El Greco - Cleansing the Temple, Pontevedra.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
