@@ -336,5 +336,24 @@
   "oracao": "pai-nosso",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-09T21:13:30.884059+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "Salve Rainha | Reze conosco",
+  "video_id": "8C4B-PNyUYk",
+  "imagens": [
+   "File:Altai Unfading Flower.jpg",
+   "File:Sano di Pietro. Madonna of Mercy.1440s Private coll..jpg",
+   "File:Diego Velázquez - Coronation of the Virgin - Prado.jpg",
+   "File:Basilica of the National Shrine of Our Lady of Aparecida, 2007.jpg",
+   "File:Angelos Akotantos - Icon of the Mother of God and Infant Christ (Virgin Eleousa) - 2010.154 - Cleveland Museum of Art.tif"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "salve-rainha",
+  "santo": null,
+  "link": null
  }
 ]
