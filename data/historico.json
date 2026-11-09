@@ -295,5 +295,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-conclui-viagem-uruguai-deus-primeiro-lugar-argentina.html"
+ },
+ {
+  "data": "2026-11-09T18:19:26.340353+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Miserere Mei, Deus — Gregorio Allegri | Música Sacra",
+  "video_id": "gx0mJpN74cc",
+  "imagens": [
+   "File:'Sistine Chapel ceiling' by Michelangelo JBU21.JPG",
+   "File:Sistine Chapel ceiling 02 (brightened).jpg",
+   "File:Hans Memling - Virgin and Child with Musician Angels - WGA14897.jpg",
+   "File:Vincenzo Irolli - The Angel Musician - 1900-05.jpg",
+   "File:(Treviso) St. Cecilia and Angel musicians (Allegory of music) - Museo civico di Santa Caterina.jpg",
+   "File:Albrecht Dürer - Praying Hands, 1508 - Google Art Project.jpg",
+   "File:Original St. Joseph Cathedral Altar Museum of Catholic Art and History.jpg",
+   "File:Fresco of Agnus Dei in Greek Catholic Cathedral of Hajdudorog.jpg"
+  ],
+  "musica": "File:Allegri - Miserere Mei, Deus - Ensamble Escénico Vocal (audio).ogg",
+  "busca_musica": "Miserere Allegri",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
