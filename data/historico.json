@@ -216,5 +216,27 @@
   "oracao": "credo",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-09T00:15:14.731657+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Adeste Fideles — Beniamino Gigli | Música Sacra",
+  "video_id": "Gja6UUNtiFE",
+  "imagens": [
+   "File:Gerard van Honthorst - Adoration of the Shepherds (1622).jpg",
+   "File:Geertgen tot Sint Jans, The Nativity at Night, c 1490.jpg",
+   "File:Federico Barocci, Nativity (Prado).jpg",
+   "File:Giorgione - Adoration of the Shepherds - National Gallery of Art.jpg",
+   "File:Mystic Nativity, Sandro Botticelli.jpg",
+   "File:Fra Angelico, Fra Filippo Lippi, The Adoration of the Magi.jpg",
+   "File:Adoration of the Magi Spedale degli Innocenti.jpg",
+   "File:The Holy Family - Rafael.jpg"
+  ],
+  "musica": "File:Adeste Fideles - Beniamino Gigli.ogg",
+  "busca_musica": "Adeste fideles",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
