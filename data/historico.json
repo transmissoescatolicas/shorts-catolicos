@@ -434,5 +434,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-missa-cordoba-santidade-testemunho-de-vida.html"
+ },
+ {
+  "data": "2026-11-10T18:13:39.376841+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Tantum Ergo mode I | Música Sacra",
+  "video_id": "OswMgolYA70",
+  "imagens": [
+   "File:French School, 17th century - Carmelite nun presenting the monstrance with the Eucharist.jpg",
+   "File:Maceió's Cathedral Ceiling Art.jpg",
+   "File:Eucharistic Adoration - Monstrance.jpg",
+   "File:St Brigid, Dublin, Ohio - Blessed Sacrament.jpg",
+   "File:Karmel-Gent-Sacrament.JPG",
+   "File:Memling Christ Surrounded by Musician Angels 02.jpg",
+   "File:Master of the Legend of Saint Lucy - Virgin and Child surrounded by musician angels, ca 1480-1500.jpg",
+   "File:Memling Christ Surrounded by Musician Angels 01.jpg"
+  ],
+  "musica": "File:Tantum Ergo I Gregorian.ogg",
+  "busca_musica": "Tantum ergo",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
