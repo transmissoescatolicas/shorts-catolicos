@@ -456,5 +456,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-10T21:10:25.073111+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "O Anjo do Senhor (Angelus) | Reze conosco",
+  "video_id": "x7JvkeBEHgo",
+  "imagens": [
+   "File:La Anunciación, by Fra Angelico, from Prado in Google Earth.jpg",
+   "File:Fra Angelico - The Annunciation - WGA00555.jpg",
+   "File:Jean-François Millet Angelus.jpg",
+   "File:Angelus Millet Dettaglio.png",
+   "File:Jean-François Millet - The Angelus - Walters 37903.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "angelus",
+  "santo": null,
+  "link": null
  }
 ]
