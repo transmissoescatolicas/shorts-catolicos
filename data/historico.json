@@ -415,5 +415,24 @@
   "oracao": null,
   "santo": "São Leão Magno",
   "link": null
+ },
+ {
+  "data": "2026-11-10T15:10:30.107700+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Papa Leão XIV na Argentina: Abram seus corações e sejam santos",
+  "video_id": "J7OkSuztspg",
+  "imagens": [
+   "File:Pope Leo XIV blessing the crowd at Montserrat, 10 June 2026.jpg",
+   "File:Pope Leo XIV 2.jpg",
+   "File:Pope Leo XIV 2 (cropped).png",
+   "File:Pope Leo XIV 3.png",
+   "File:Saint Peter's Square from the dome.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-missa-cordoba-santidade-testemunho-de-vida.html"
  }
 ]
