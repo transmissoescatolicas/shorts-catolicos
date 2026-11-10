@@ -377,5 +377,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-10T09:14:17.136285+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-10",
+  "titulo": "Evangelho do Dia 10/11 | Somos servos inúteis fizemos o que devíamos fazer (Lc 17,7-10)",
+  "video_id": "fKidBIHJsjM",
+  "imagens": [
+   "File:16th-century unknown painters - Parable of the Unfaithful Servant - WGA23794.jpg",
+   "File:Claude Vignon - Parable of the Unforgiving Servant.jpg",
+   "File:Jan van Hemessen - The Parable of the Unmerciful Servant.jpg",
+   "File:Pourbus, Rechtvaardige Rechter.jpg",
+   "File:Kirill Ulanov. Christ Pantocrator enthroned.1716.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
