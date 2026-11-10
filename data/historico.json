@@ -355,5 +355,27 @@
   "oracao": "salve-rainha",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-10T00:15:55.321877+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Domine Deus (Gloria RV 589) — Antonio Vivaldi | Música Sacra",
+  "video_id": "WH0pt60E6ok",
+  "imagens": [
+   "File:Guercino God the Father (detail).jpg",
+   "File:Guercino God the Father.jpg",
+   "File:Carlo Dolci - The Holy Family with God the Father and the Holy Spirit - WGA06376.jpg",
+   "File:The Adoration of the Holy Trinity by Pope St. Clement - Giovanni Batista Tiepolo.jpg",
+   "File:William-Adolphe Bouguereau (1825-1905) - Song of the Angels (1881).jpg",
+   "File:Ceiling of San Carlo al Corso (Rome).jpg",
+   "File:Witley baroque ceiling.jpg",
+   "File:Albani, Francesco - Eternal Father and Archangel Gabriel - Louvre INV 1.jpg"
+  ],
+  "musica": "File:Dominedeus.ogg",
+  "busca_musica": "Gloria Vivaldi",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
