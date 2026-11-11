@@ -497,5 +497,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-11T09:13:50.541297+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-11",
+  "titulo": "Evangelho do Dia 11/11 | Tua fé te salvou (Lc 17,11-19)",
+  "video_id": "pjA2uwycbX8",
+  "imagens": [
+   "File:Brooklyn Museum - The Healing of Ten Lepers (Guérison de dix lépreux) - James Tissot - overall.jpg",
+   "File:Jesus sanat decem flämisch 17Jh.jpg",
+   "File:Meister der Reichenauer Schule 001.jpg",
+   "File:ICONS, Sinai, Christ Pantocrator, 6th century.jpg",
+   "File:Van Dyck, Anthony - St Martin Dividing his Cloak - 1620-1621.JPG"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
