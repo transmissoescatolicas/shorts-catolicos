@@ -535,5 +535,27 @@
   "oracao": null,
   "santo": "São Martinho de Tours",
   "link": null
+ },
+ {
+  "data": "2026-11-11T18:14:00.400834+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Fugue sur les tierces - Ave Maris Stella — Jean-François Dandrieu | Música Sacra",
+  "video_id": "ET4ii8mW7x8",
+  "imagens": [
+   "File:Ave Maris Stella, by Giuseppe da Pozzo, 1886, oil on canvas - Dunedin Public Art Gallery - Dunedin, NZ - DSC04670.jpg",
+   "File:Cecilia and 2 Angels - Anteveduto Grammatica.jpg",
+   "File:Praha St. Nicholas Church Organ 01.jpg",
+   "File:Pipe organ at the church of Saint Maurice in Olomouc.png",
+   "File:Pipe Organ Kloster Muri 2.jpg",
+   "File:Simone martini, Madonna in Glory with Musician Angels (detail).jpg",
+   "File:Cristoforo Caselli - The Virgin and Child Enthroned with Two Musician Angels - Google Art Project.jpg",
+   "File:Carlo Maratta - The Sleep of the Infant Jesus, with Musician Angels - WGA14050.jpg"
+  ],
+  "musica": "File:Dandrieu Fugue AveMarisStela.oga",
+  "busca_musica": "Ave maris stella",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
