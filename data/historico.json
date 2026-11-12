@@ -677,5 +677,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-12T21:12:59.624558+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "Consagração a Nossa Senhora | Reze conosco",
+  "video_id": "1kBj3fMkSAc",
+  "imagens": [
+   "File:Basilica of the National Shrine of Our Lady of Aparecida 2019 46.jpg",
+   "File:Murillo immaculate conception.jpg",
+   "File:SPB Ermitage - Madonna and Child with Saints (Antonio Da Firenze).jpg",
+   "File:Statue Virgin Mary Monastery San Hieronimo, Granada, Andalusia, Spain.jpg",
+   "File:Statue of Virgin Mary and Child Jesus Catholic Shrines Chon Jin Am.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "consagracao-nossa-senhora",
+  "santo": null,
+  "link": null
  }
 ]
