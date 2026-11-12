@@ -655,5 +655,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-viagem-apostolica-argentina-missa-buenos-aires-lujan.html"
+ },
+ {
+  "data": "2026-11-12T18:14:22.415330+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Stabat Mater — The Tudor Consort | Música Sacra",
+  "video_id": "MYEKusSQih8",
+  "imagens": [
+   "File:Holy Land 2022 (1) P051 Bethlehem Grotto of the Nativity Stabat mater.jpg",
+   "File:After Sébastien Le Clerc I, The Virgin, Saint John, and Mary Magdalene at the Foot of the Cross, NGA 59704.jpg",
+   "File:Dante Gabriel Rossetti - St. John Comforting the Virgin at the Foot of the Cross (1862).jpg",
+   "File:Michelangelo's Pieta 5450 cropncleaned edit.jpg",
+   "File:William-Adolphe Bouguereau (1825-1905) - Pieta (1876).jpg",
+   "File:Dieric Bouts - Mater Dolorosa (Sorrowing Virgin) - 1986.998 - Art Institute of Chicago.jpg",
+   "File:Mater Dolorosa MET DP347238.jpg",
+   "File:Bottega di dieric bouts, mater dolorosa, 1480-1500 ca.jpg"
+  ],
+  "musica": "File:The Tudor Consort - 01 - Stabat Mater.ogg",
+  "busca_musica": "Stabat Mater",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
