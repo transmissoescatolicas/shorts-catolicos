@@ -576,5 +576,27 @@
   "oracao": "o-meu-jesus",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-12T00:14:26.111284+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Agnus Dei (Mass for four Voices) — William Byrd | Música Sacra",
+  "video_id": "vI1uQNznxWg",
+  "imagens": [
+   "File:Iken, St. Botolph's Church, \"Lamb of God\" window - geograph.org.uk - 4882558.jpg",
+   "File:Saint Louis Catholic Church (North Star, Ohio) - stained glass, Lamb of God.jpg",
+   "File:Saint Philip Catholic Church (Franklin, Tennessee) - original church, interior, stained glass, Lamb of God.jpg",
+   "File:Panewniki stained glass 7.jpg",
+   "File:Painting of Saint Cecilia.JPG",
+   "File:Angels with ciole and vielle.jpg",
+   "File:Musician angel - Fresco (c. 1304) - Huesca - 1.JPG",
+   "File:Crucifixion of Christ by Pietro Perugino.jpg"
+  ],
+  "musica": "File:Byrd 4-Part Mass - Agnus Dei.ogg",
+  "busca_musica": "Agnus Dei Byrd",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
