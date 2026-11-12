@@ -636,5 +636,24 @@
   "oracao": null,
   "santo": "São Josafá",
   "link": null
+ },
+ {
+  "data": "2026-11-12T15:10:57.363398+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Papa Leão XIV celebra Santa Missa em Luján e confia Argentina à Virgem Maria",
+  "video_id": "yloAPyHtZg8",
+  "imagens": [
+   "File:Basilica de Nuestra Senora de Lujan.jpg",
+   "File:Frente Basílica de Luján.jpg",
+   "File:Luján - Basílica de Nuestra Señora de Luján - 200807e.jpg",
+   "File:J37 525 Basilica de Luján.jpg",
+   "File:J37 530 Basilica de Luján, Weihnachtskrippe.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-viagem-apostolica-argentina-missa-buenos-aires-lujan.html"
  }
 ]
