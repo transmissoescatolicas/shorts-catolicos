@@ -598,5 +598,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-12T09:12:56.465725+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-12",
+  "titulo": "Evangelho do Dia 12/11 | O Reino de Deus está entre vós (Lc 17,20-25)",
+  "video_id": "s3DF1O2E5VA",
+  "imagens": [
+   "File:Christ Pantocrator in the.jpg",
+   "File:Menaion icon (17 c., TsAK) - November.jpg",
+   "File:Sermon-on-the-mount detail.jpg",
+   "File:Christ Pantocrator icon.jpg",
+   "File:Gottvater thronend Westfalen 15 Jh.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
