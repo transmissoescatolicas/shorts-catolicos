@@ -617,5 +617,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-12T12:10:20.688952+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-12",
+  "titulo": "Santo do Dia 12/11 | São Josafá — Mártir da unidade da Igreja",
+  "video_id": "ghjGF-aAnew",
+  "imagens": [
+   "File:Iosaphat Martyr (miedzioryt) (cropped).jpg",
+   "File:St Josaphat Zbarazh.jpg",
+   "File:Simmler Martyrdom of Josaphat Kuntsevych.jpg",
+   "File:Saint Josaphat Catholic Church (Detroit, MI) - Sacred Heart shrine.jpg",
+   "File:StBasil-alt.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "São Josafá",
+  "link": null
  }
 ]
