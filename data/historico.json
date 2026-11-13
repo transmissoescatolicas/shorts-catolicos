@@ -718,5 +718,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-13T09:11:43.964908+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-13",
+  "titulo": "Evangelho do Dia 13/11 | Lembrai-vos da mulher de Ló (Lc 17,26-37)",
+  "video_id": "h4gL8Hx2uA0",
+  "imagens": [
+   "File:Jesus Teaching the Disciples - Vanderbilt ACT - Amiens06.jpg",
+   "File:Museu Alberto Sampaio - Incêndio de Sodoma.jpg",
+   "File:Christ Teaching the Disciples, 1, from Das Plenarium MET DP849937.jpg",
+   "File:Christ Teaching the Disciples, 1, from Das Plenarium MET DP849936.jpg",
+   "File:Christ Pantocrator icon 3 - Peter Paul Cathedral, Kazan (2023-07-18).jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
