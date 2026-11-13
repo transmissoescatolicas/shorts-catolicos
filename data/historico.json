@@ -696,5 +696,27 @@
   "oracao": "consagracao-nossa-senhora",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-13T00:12:34.282554+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Panis Angelicus — César Franck | Música Sacra",
+  "video_id": "s_AkB_hm5jk",
+  "imagens": [
+   "File:Miguel Cabrera - Allegory of the Holy Eucharist - 1750.jpg",
+   "File:Glorification of the Eucharist - Salimbeni.JPG",
+   "File:Seven Sacraments - Holy Eucharist II (1647) - Poussin - NGofScotland.jpg",
+   "File:Cathedral Fribourg vitrail Eucharistie 01.jpg",
+   "File:Eucharistic Adoration, Tarxien, Malta (2025).jpg",
+   "File:Altar 2017-06-02 021.jpg",
+   "File:Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg",
+   "File:Cathédrale Condom Choeur BLS.jpg"
+  ],
+  "musica": "File:Panis Angelicus Cesar Frank.webm",
+  "busca_musica": "Panis angelicus",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
