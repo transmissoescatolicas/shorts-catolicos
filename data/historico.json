@@ -775,5 +775,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-peru-viagem-apostolica-chiclayo.html"
+ },
+ {
+  "data": "2026-11-13T18:13:21.813908+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Mozart - Vesperæ Solennes de Confessore (Cooke) - 5 Laudate Dominum | Música Sacra",
+  "video_id": "LTbdNdx37sA",
+  "imagens": [
+   "File:Italy, Lombardy, Milan?, 15th century - Leaf from a Gradual with Historiated Initial (G)- Mary as Queen of Heaven - 1928.652 - Cleveland Museum of Art.tif",
+   "File:Benvenuto di Giovanni - Single Leaf from an Antiphonary- Initial Hodie nobis with The Nativity - 1952.282 - Cleveland Museum of Art.tif",
+   "File:Master of the Bonn Diptych Choir of Angels.jpg",
+   "File:Christ in Glory and Majesty with Angels, Cristóbal de Villalpando - Choir - Catedral de Cd de Mexico - Mexico 2024.jpg",
+   "File:Wall painting of an angel from Winchester New Minster.jpg",
+   "File:16th-century unknown painters - Angelic Choir of the Nativity - WGA23490.jpg",
+   "File:Stained glass in Nysa cathedral.jpg",
+   "File:Münster, St.-Paulus-Dom, Maximuskapelle -- 2019 -- 3843-7.jpg"
+  ],
+  "musica": "File:Mozart - Vesperæ Solennes de Confessore (Cooke) - 5 Laudate Dominum.ogg",
+  "busca_musica": "Laudate Dominum Mozart",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
