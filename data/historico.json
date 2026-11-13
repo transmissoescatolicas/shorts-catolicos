@@ -737,5 +737,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-13T12:09:49.469976+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-13",
+  "titulo": "Santo do Dia 13/11 | São Diego de Alcalá — O religioso franciscano humilde e missionário",
+  "video_id": "v3Rao9HnkEg",
+  "imagens": [
+   "File:Francisco de Zurbarán (1651-1653) San Diego de Alcalá.png",
+   "File:Augustins - San Diego de Alcala en extase devant la croix - Murillo - D 1846 1.jpg",
+   "File:San Diego de Alcalá, Alonso Cano.jpg",
+   "File:Bernardo Strozzi - The Miracle of St Didacus of Alcalá.jpg",
+   "File:Gregorio Fernández - Diego de Alcalá 20140705.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "São Diego de Alcalá",
+  "link": null
  }
 ]
