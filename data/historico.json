@@ -756,5 +756,24 @@
   "oracao": null,
   "santo": "São Diego de Alcalá",
   "link": null
+ },
+ {
+  "data": "2026-11-13T15:11:46.875810+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Chiclayo em festa: a alegria do povo com o retorno do Papa",
+  "video_id": "TtekslWNCPA",
+  "imagens": [
+   "File:Interior view of the Shrine of Our Lady of Peace, Chiclayo, Peru.jpg",
+   "File:NationalShrineofOurLadyofFatimajf4473 03.JPG",
+   "File:NationalShrineofOurLadyofFatimajf4440 15.JPG",
+   "File:NationalShrineofOurLadyofFatimajf4473 05.JPG",
+   "File:NationalShrineofOurLadyofFatimajf4424 03.JPG"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-peru-viagem-apostolica-chiclayo.html"
  }
 ]
