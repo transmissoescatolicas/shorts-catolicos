@@ -797,5 +797,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-13T21:12:00.039148+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "Oração a São Miguel Arcanjo | Reze conosco",
+  "video_id": "CfoTCSS0xGE",
+  "imagens": [
+   "File:Cappella di Eleonora Palazzo Vecchio n01.jpg",
+   "File:GuidoReni MichaelDefeatsSatan.jpg",
+   "File:Pietro Perugino - Archangel Michael - WGA17307.jpg",
+   "File:Icon of the Archangel Michael at the Annunciation Greek Orthodox Cathedral (Chicago).jpg",
+   "File:Guido Reni 031.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "sao-miguel",
+  "santo": null,
+  "link": null
  }
 ]
