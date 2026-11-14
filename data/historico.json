@@ -917,5 +917,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-14T21:12:09.973158+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "O Anjo do Senhor (Angelus) | Reze conosco",
+  "video_id": "Mfke1G5-X9I",
+  "imagens": [
+   "File:Fra Angelico - Annunciation - WGA0474.jpg",
+   "File:Fra Angelico - The Annunciation - 1959.15.6 - Yale University Art Gallery.jpg",
+   "File:Fra Angelico - The Annunciation - WGA0455.jpg",
+   "File:Jean-Francois-Millet-the-angelus.jpg",
+   "File:Lorenzetti Ambrogio annunciation- 1344..jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "angelus",
+  "santo": null,
+  "link": null
  }
 ]
