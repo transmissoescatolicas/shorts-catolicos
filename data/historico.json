@@ -838,5 +838,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-14T09:13:16.649087+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-14",
+  "titulo": "Evangelho do Dia 14/11 | A necessidade de rezar sempre e nunca desistir (Lc 18,1-8)",
+  "video_id": "i7mLpxDolAo",
+  "imagens": [
+   "File:Parable of the Unjust Judge (Granovitaya palata, 1881-2) 3.jpg",
+   "File:Gothaer-Tafelaltar-Tafel-107-Ebhardt-FSG.jpg",
+   "File:Quiet Moment of Prayer.jpg",
+   "File:Lighting candles.jpg",
+   "File:Christ Pantocrator Russian icon.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
