@@ -895,5 +895,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-viagem-apostolica-peru-catedral-chiclayo-2026.html"
+ },
+ {
+  "data": "2026-11-14T18:13:41.484277+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Salve Regina — Hermann Contract | Música Sacra",
+  "video_id": "OmH_j3Pbyqc",
+  "imagens": [
+   "File:Goswyn van der weyden, trittico del salve regina, 01.jpg",
+   "File:Goswyn van der weyden, trittico del salve regina, 03 gesù bambino.jpg",
+   "File:Salve Regina by Oscar Casares.png",
+   "File:Master of the Saint Lucy Legend, Mary, Queen of Heaven, c. 1485-1500, NGA 41595.jpg",
+   "File:Master of the St Lucy Legend - Mary, Queen of Heaven (detail upper right angels) - c. 1480 - c. 1510.jpg",
+   "File:Unknown Bohemian — Osek Altarpiece (central panel) with Virgin Mary as the Queen of Heaven — 1520s — Convent of St Agnes of Bohemia NGP.jpg",
+   "File:Antonello da Messina - The Virgin Mary Reading - Walters 37433.jpg",
+   "File:Gentile da Fabriano - Coronation of the Virgin.jpg"
+  ],
+  "musica": "File:Petits Chanteurs de Passy - Salve Regina de Hermann Contract.ogg",
+  "busca_musica": "Salve Regina",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
