@@ -816,5 +816,27 @@
   "oracao": "sao-miguel",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-14T00:14:28.979769+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Kyrie 55, Vatican ad lib. VI, Cambrai | Música Sacra",
+  "video_id": "MxnCQuMyr2w",
+  "imagens": [
+   "File:Troparium et prosarium Sancti Martialis Lemovicensis BNF Latin 1118 fo 104.jpg",
+   "File:Bruges Public Library Manuscript 8 - Psalter with liturgical Calendar - Ghent, 13th century - From Ten Duinen Abbey.jpg",
+   "File:Astana Catholic Cathedral, interior, September 2026 choir 2.jpg",
+   "File:Astana Catholic Cathedral, interior, September 2026 choir 1.jpg",
+   "File:Münster, St.-Paulus-Dom, Alter Chor -- 2019 -- 3789-93.jpg",
+   "File:Ceiling of the choir and apse - St John the Evangelist Cathedral (46738152114).jpg",
+   "File:All Saints church, Preston Bagot - Saint Cecilia stained-glass window 2016.jpg",
+   "File:Mosaic of the vault of the chapel of San Zeno (IX century).jpg"
+  ],
+  "musica": "File:Kyrie 55, Vatican ad lib. VI, Cambrai.ogg",
+  "busca_musica": "Kyrie gregorian",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
