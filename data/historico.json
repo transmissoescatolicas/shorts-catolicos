@@ -1015,5 +1015,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-universidade-catolica-sao-turibio-mogrovejo-chiclayo.html"
+ },
+ {
+  "data": "2026-11-15T18:16:48.215748+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Requiem, K. 626: Benedictus — W. A. Mozart | Música Sacra",
+  "video_id": "ipEKRkjFv_w",
+  "imagens": [
+   "File:Ghent Altarpiece - Adoration of the Mystic Lamb.jpg",
+   "File:Sacre Coeur - Mosaique de l'abside.jpg",
+   "File:Wien - Karlskirche, Altarraum.JPG",
+   "File:Wien - Karlskirche, Innenansicht (a).JPG",
+   "File:Vienna Karlskirche, Dome Fresco (16311619947).jpg",
+   "File:Basilica of San Vitale - Lamb of God mosaic.jpg",
+   "File:Sacré-Cœur Basilica and the mosaic \"Christ in Majesty\" in the apse, one of the largest of the world (22483996851).jpg",
+   "File:Intercession of Charles Borromeo supported by the Virgin Mary - Detail Rottmayr Fresco - Karlskirche - Vienna.JPG"
+  ],
+  "musica": "File:W. A. Mozart - Requiem - 12. Benedictus (Herbert von Karajan, Wiener Philharmoniker, Wiener Singverein, 1960).ogg",
+  "busca_musica": "Benedictus",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
