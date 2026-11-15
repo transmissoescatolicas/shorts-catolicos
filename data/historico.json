@@ -977,5 +977,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-15T12:14:15.082619+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-15",
+  "titulo": "Santo do Dia 15/11 | Santo Alberto Magno — Doutor da Igreja e Mestre Dominicano",
+  "video_id": "xsxcH1M_oRU",
+  "imagens": [
+   "File:Sermon of Saint Albertus Magnus MET DP164883.jpg",
+   "File:Tommaso da modena, ritratti di domenicani (vescovo) 1352 150cm, treviso, ex convento di san niccolò, sala del capitolo.jpg",
+   "File:Albertus magnus dominikanerstammbaum.jpg",
+   "File:Albertus Magnus - Parish of Guayaquil.jpg",
+   "File:Saint Leonard Faith Community (Centerville, Ohio) - stained glass, St. Albert the Great, Doctor of the Church.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "Santo Alberto Magno",
+  "link": null
  }
 ]
