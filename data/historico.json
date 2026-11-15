@@ -996,5 +996,24 @@
   "oracao": null,
   "santo": "Santo Alberto Magno",
   "link": null
+ },
+ {
+  "data": "2026-11-15T15:13:53.300949+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "A ciência sem consciência arruína a vida de todos, alerta o Papa",
+  "video_id": "FaOsTkvOlmM",
+  "imagens": [
+   "File:Dublin Christ Church Cathedral Passage to Synod Hall Window Seven Gifts of the Holy Spirit 2012 09 26.jpg",
+   "File:Christ Church Cathedral Interior 3, Oxford, UK - Diliff.jpg",
+   "File:Christ Church Cathedral Interior 2, Oxford, UK - Diliff.jpg",
+   "File:Christ Church Cathedral Interior 1, Oxford, UK - Diliff.jpg",
+   "File:Pope Leo XIV 2.png"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-universidade-catolica-sao-turibio-mogrovejo-chiclayo.html"
  }
 ]
