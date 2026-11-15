@@ -936,5 +936,27 @@
   "oracao": "angelus",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-15T00:13:35.667878+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Veni Creator Spiritus — Simon Sorge | Música Sacra",
+  "video_id": "Kp7OIFZ1-6k",
+  "imagens": [
+   "File:Jean II Restout - Pentecost - WGA19318.jpg",
+   "File:Pentecostés (El Greco, c. 1600) Prado.jpg",
+   "File:Juan de Flandes - Pentecost - WGA12042.jpg",
+   "File:Maino Pentecostés, 1620-1625. Museo del Prado.jpg",
+   "File:Saint Joseph Cathedral (San Diego, California) - stained glass, Descent of the Holy Spirit at Pentecost.jpg",
+   "File:The Descent of the Holy Spirit stained glass window in Saint Patrick Church; Lowell, MA; 2012-05-19.JPG",
+   "File:Church of the Immaculate Conception (Saint Mary-of-the-Woods, Indiana), interior, stained glass, the Descent of the Holy Spirit at Pentecost.jpg",
+   "File:Augustine-Window-Descent.jpg"
+  ],
+  "musica": "File:Selbstportrait 7 Veni Creator Spiritus.ogg",
+  "busca_musica": "Veni Creator",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
