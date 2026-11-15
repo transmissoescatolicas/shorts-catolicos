@@ -958,5 +958,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-15T09:11:21.072679+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-15",
+  "titulo": "Evangelho do Dia 15/11 | Muito bem, servo bom e fiel! (Mt 25,14-30)",
+  "video_id": "L4176Z8WCwo",
+  "imagens": [
+   "File:Willem de Poorter's The Parable of The Talents or Minas.png",
+   "File:Parable of the Talents. Mironov.jpg",
+   "File:De gelijkenis van de talenten.jpg",
+   "File:Christ Pantocrator icon 1 - Peter Paul Cathedral, Kazan (2023-07-18).jpg",
+   "File:Christ Icon Sinai 6th century.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
