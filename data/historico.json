@@ -1078,5 +1078,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-16T09:14:32.545111+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-16",
+  "titulo": "Evangelho do Dia 16/11 | A tua fé te salvou (Lc 18,35-43)",
+  "video_id": "qoa3TdgRBTw",
+  "imagens": [
+   "File:Duccio di Buoninsegna - Healing of the Blind Man - WGA06779.jpg",
+   "File:Healing of the Blind Man by Jesus Christ.jpg",
+   "File:Jesus healing the blind XIX c. Brashlyan.jpg",
+   "File:Trabzon Hagia Sophia Healing of a man born blind 4813.jpg",
+   "File:Elias Moskos - Christ Pantocrator - WGA16289.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
