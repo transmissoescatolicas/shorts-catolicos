@@ -1135,5 +1135,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-pucallpa-amazonia-violencia-povos-autoctones-ambiente.html"
+ },
+ {
+  "data": "2026-11-16T18:11:47.304961+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Ave Maria — Anton Bruckner | Música Sacra",
+  "video_id": "5_H-5hnhIbE",
+  "imagens": [
+   "File:Domenico Beccafumi - The Annunciation - WGA01551.jpg",
+   "File:Annunciation - Jan van Eyck - 1434 - NG Wash DC.jpg",
+   "File:Annunciation - Antonello da Messina.jpg",
+   "File:Annunciation (Annunciazione), San Marco, Florence (26403832010).jpg",
+   "File:The Annunciation, with Saint Emidius - Carlo Crivelli - National Gallery.jpg",
+   "File:Alba Iulia (Gyulafehérvár, Karlsburg) - Roman Catholic Cathedral (interior).jpg",
+   "File:Alba Iulia (Gyulafehérvár, Karlsburg) - Roman Catholic Cathedral (interior) 2.jpg",
+   "File:Portsmouth Catholic Cathedral interior - 2023-04-21.jpg"
+  ],
+  "musica": "File:Ave Maria (USNB).ogg",
+  "busca_musica": "Ave Maria Arcadelt",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
