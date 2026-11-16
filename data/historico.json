@@ -1097,5 +1097,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-16T12:11:59.849668+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-16",
+  "titulo": "Santo do Dia 16/11 | Santa Margarida da Escócia — A Donzela da Noruega e Rainha",
+  "video_id": "F-Tu5P_bKT8",
+  "imagens": [
+   "File:Nicolas de Largillière (1656-1746) - Saint Margaret (c.1045–1093), Queen of Scotland - 998409 - National Trust.jpg",
+   "File:Sacred Heart Cathedral - Davenport, Iowa Margaret of Scotland.jpg",
+   "File:Alexander Ignatius Roche (1861-1921) - Margaret - 1994.095 - Royal Scottish Academy.jpg",
+   "File:Statue of Queen Margaret, Scottish National Portrait Gallery.jpg",
+   "File:St Margaret of Scotland, Scottish Episcopal Church, Aberdeen 06.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "Santa Margarida da Escócia",
+  "link": null
  }
 ]
