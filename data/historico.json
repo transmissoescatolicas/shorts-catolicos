@@ -1056,5 +1056,27 @@
   "oracao": "ato-de-contricao",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-16T00:16:21.829712+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Ave Maria — Bach, Gounod | Música Sacra",
+  "video_id": "bu2nJjMUBe0",
+  "imagens": [
+   "File:Fra Angelico, The Annunciation, ca. 1443; Convent of San Marco, Florence (2).jpg",
+   "File:Giovanni Battista Salvi (gen. Sassoferato) - Betende Maria - 5750 - Bavarian State Painting Collections.jpg",
+   "File:Master of the St Lucy Legend - Mary, Queen of Heaven- c. 1480 - c. 1510 (hi res).jpg",
+   "File:Bartolomé Esteban Murillo - The Virgin of the Annunciation - Google Art Project.jpg",
+   "File:Madonna and Child with Two Angels - Pietro Perugino - Louvre INV 719.jpg",
+   "File:Giovanni Battista Cima - Annunciation to the Virgin - 43.478 - Detroit Institute of Arts.jpg",
+   "File:Raphael - The Alba Madonna - Google Art Project.jpg",
+   "File:Raphael - The Sistine Madonna - Google Arts & Culture.jpg"
+  ],
+  "musica": "File:PDP-CH - Jo Vincent - Ave Maria - Bach - Gounod - Columbia-11805-fx215.flac",
+  "busca_musica": "Ave Maria Gounod",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
