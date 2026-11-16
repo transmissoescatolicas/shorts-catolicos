@@ -1116,5 +1116,24 @@
   "oracao": null,
   "santo": "Santa Margarida da Escócia",
   "link": null
+ },
+ {
+  "data": "2026-11-16T15:13:18.810684+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Papa Leão XIV denuncia violência contra povos indígenas da Amazônia",
+  "video_id": "KmNUc8VebrE",
+  "imagens": [
+   "File:Aerial view of the Amazon Rainforest.jpg",
+   "File:Pope Leo XIV 6.png",
+   "File:Saint Francis of Assisi by Jusepe de Ribera.jpg",
+   "File:Pope Leo XIV addressing pilgrims from the balcony at Montserrat, 10 June 2026.jpg",
+   "File:Basilica of the National Shrine of Our Lady of Aparecida 2019 59.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/leao-xiv-pucallpa-amazonia-violencia-povos-autoctones-ambiente.html"
  }
 ]
