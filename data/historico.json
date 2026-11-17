@@ -1217,5 +1217,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-17T12:12:41.069261+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-17",
+  "titulo": "Santo do Dia 17/11 | Santa Isabel da Hungria — Princesa e modelo de caridade cristã",
+  "video_id": "cIP1pJI06gQ",
+  "imagens": [
+   "File:Ambrogio Lorenzetti, Saint Elizabeth of Hungary (1319-1347).jpg",
+   "File:Liezen-Mayer Saint Elisabeth of Hungary 1882.jpg",
+   "File:Hugues Merle - Saint Elizabeth of Hungary - 56.284 - Detroit Institute of Arts.jpg",
+   "File:St Elisabeth of Hungary (18. century, stained glass).jpg",
+   "File:Elisabeth of Hungary Moroder.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "Santa Isabel da Hungria",
+  "link": null
  }
 ]
