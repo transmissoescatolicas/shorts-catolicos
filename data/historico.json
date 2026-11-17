@@ -1236,5 +1236,24 @@
   "oracao": null,
   "santo": "Santa Isabel da Hungria",
   "link": null
+ },
+ {
+  "data": "2026-11-17T15:09:55.961565+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Papa envia mensagem e bênçãos ao Brasil durante sobrevoo",
+  "video_id": "AN9a2n5Uh84",
+  "imagens": [
+   "File:Basilica di San Pietro in Vaticano September 2015-1a.jpg",
+   "File:Basilica of the National Shrine of Our Lady of Aparecida 2019 58.jpg",
+   "File:Brasilia Cathedral 2007.jpg",
+   "File:Pope Leo XIV on the loggia.jpg",
+   "File:Basilica of the National Shrine of Our Lady of Aparecida 2019 57.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-brasil-bencaos-de-deus-telegrama-viagem-america-latina.html"
  }
 ]
