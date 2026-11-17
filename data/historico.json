@@ -1255,5 +1255,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-brasil-bencaos-de-deus-telegrama-viagem-america-latina.html"
+ },
+ {
+  "data": "2026-11-17T18:14:04.631432+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Charpentier, Te Deum (Prelude) | Música Sacra",
+  "video_id": "226z2de99zU",
+  "imagens": [
+   "File:SA 368-Een orgelspelende en zingende monnik (te Deum Laudamus).jpg",
+   "File:Choeur de ND de Paris 1669.jpg",
+   "File:Église Saint-Eustache,Paris,Francia (6773295222).jpg",
+   "File:Angel Playing Instrument MET cdi25-120-1055-1056s1.jpg",
+   "File:Defendente Ferrari - The Holy Family with Angels - Walters 37711.jpg",
+   "File:Vittore Carpaccio, Madonna Enthroned and Six Saints, 1518, Padua (detail).jpg",
+   "File:Amiens Cathedral Transept Crossing, Picardy, France - Diliff.jpg",
+   "File:Barcelona Cathedral Interior - St. Thecla - 1486.jpg"
+  ],
+  "musica": "File:Charpentier, Te Deum (Prelude).ogg",
+  "busca_musica": "Te Deum",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
