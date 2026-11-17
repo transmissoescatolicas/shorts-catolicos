@@ -1198,5 +1198,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-17T09:12:41.996622+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-17",
+  "titulo": "Evangelho do Dia 17/11 | Hoje a salvação entrou nesta casa (Lc 19,1-10)",
+  "video_id": "medtMPhVvsQ",
+  "imagens": [
+   "File:Petrus Norbertus van Reysschoot - Zacchaeus in the fig tree.jpg",
+   "File:Lucio Massari - Zaccheus in the Tree - 1972.305 - Harvard Art Museums.jpg",
+   "File:Otto van Veen - De roeping van Zacheus, zittend in een vijgenboom - 479 - Royal Museum of Fine Arts Antwerp.tiff",
+   "File:Christ Pantocrator icon 2 - Peter Paul Cathedral, Kazan (2023-07-18).jpg",
+   "File:Christ Pantocrator 17th century.tif"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
