@@ -1176,5 +1176,27 @@
   "oracao": "vinde-espirito-santo",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-17T00:13:42.413430+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Jesu, Joy of Man's Desiring — J. S. Bach | Música Sacra",
+  "video_id": "qvvh4oCQmu0",
+  "imagens": [
+   "File:Johann Sebastian Bach.jpg",
+   "File:Raffaellino del Garbo (1466 - 1524) - The Virgin with the Child and Angels making Music - 90 - Gemäldegalerie.jpg",
+   "File:Raffaellino del Garbo - Mary with child and two angels playing music - Gemäldegalerie Berlin.jpg",
+   "File:Stained glass - Kutna Hora.jpg",
+   "File:Mary Magdalene church in Gramond 08.jpg",
+   "File:Winchester Cathedral Choir, Hampshire, UK - Diliff.jpg",
+   "File:Laon Cathedral Interior 04.JPG",
+   "File:Barcelona Cathedral Interior - Ceiling and choir.jpg"
+  ],
+  "musica": "File:Bach, JS - Jesu Joy of Man's Desiring (Piano Performance by eldüendesüarez).wav",
+  "busca_musica": "Jesu joy of man's desiring",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
