@@ -1277,5 +1277,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-17T21:13:46.654928+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "Oração do Anjo de Fátima | Reze conosco",
+  "video_id": "0WZLFNJ887U",
+  "imagens": [
+   "File:First Sculpture of Our Lady of Fatima.jpg",
+   "File:Our Lady of Fatima 1968.jpg",
+   "File:Statue of Our Lady in Fátima, Portugal – 1954.jpg",
+   "File:Chapel of the Apparitions (Fátima).jpg",
+   "File:Faithway (2850562202) (cropped).jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "anjo-de-fatima",
+  "santo": null,
+  "link": null
  }
 ]
