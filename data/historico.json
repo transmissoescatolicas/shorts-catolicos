@@ -1296,5 +1296,27 @@
   "oracao": "anjo-de-fatima",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-18T00:15:39.926334+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Ellens dritter Gesang (Ave Maria) — Franz Schubert | Música Sacra",
+  "video_id": "rBHr0pjlZn4",
+  "imagens": [
+   "File:Fra Angelico 043.jpg",
+   "File:Ambrogio lorenzetti, annunciation, 1344, siena.jpg",
+   "File:Annunciation Memling.jpg",
+   "File:Madonna and Child with a Dove - Piero di Cosimo - Louvre INV 817.jpg",
+   "File:Madonna and Child with Child St John - Anthony van Dyck.jpg",
+   "File:Juan Sánchez Cotán - The Virgin awakening Child Christ - 1603-1627.jpg",
+   "File:The Assumption of Virgin Mary - Guido Reni.jpg",
+   "File:Sv.Marijas kronēšana. Sienas gleznojums, Rīgas Doms (2).jpg"
+  ],
+  "musica": "File:Franz Schubert - Ellens dritter Gesang.oga",
+  "busca_musica": "Ave Maria Schubert",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
