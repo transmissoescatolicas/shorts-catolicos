@@ -1356,5 +1356,24 @@
   "oracao": null,
   "santo": "Dedicação das Basílicas de São Pedro e São Paulo",
   "link": null
+ },
+ {
+  "data": "2026-11-18T15:11:01.386406+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Comunidade Shalom é recebida pelo Papa Leão XIV no Vaticano",
+  "video_id": "fOdNhcUnutI",
+  "imagens": [
+   "File:Pope Leo XIV 7.png",
+   "File:Pope Leo XIV on the loggia (cropped).jpg",
+   "File:Sala nervi 2.jpg",
+   "File:Interior of Saint Peter's Basilica 20150814-1.jpg",
+   "File:Saint Peter's Basilica facade, Rome, Italy.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-recebera-comunidade-shalom-no-vaticano-45-anos.html"
  }
 ]
