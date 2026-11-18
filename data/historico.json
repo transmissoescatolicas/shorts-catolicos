@@ -1375,5 +1375,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-recebera-comunidade-shalom-no-vaticano-45-anos.html"
+ },
+ {
+  "data": "2026-11-18T18:21:20.258883+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Nun komm der Heiden Heiland BWV 659 — Johann Sebastian Bach | Música Sacra",
+  "video_id": "2sT7cDST5Cw",
+  "imagens": [
+   "File:Basilica, Baroque pipe organ, 2020 Sárospatak.jpg",
+   "File:Pipe Organ Schwyz.jpg",
+   "File:Baroque Organ - geograph.org.uk - 5301906.jpg",
+   "File:60816 - Interior of Holy Trinity church in Janów Podlaski - pipe organ - 02.jpg",
+   "File:Oergryte nya kyrka baroque organ Ibo Ortgies 2015.jpg",
+   "File:Schlosskirche Weimar 1660.jpg",
+   "File:Šiauliai Cathedral Interior 1, Šiauliai, Lithuania - Diliff.jpg",
+   "File:St Mary's Pro-Cathedral Interior, Dublin, Ireland - Diliff.jpg"
+  ],
+  "musica": "File:Bach.Busoni.Nun.komm.der.Heiden.Heiland.BWV.659.mitteltoenig.ogg",
+  "busca_musica": "Bach chorale prelude organ",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
