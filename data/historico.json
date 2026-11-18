@@ -1397,5 +1397,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-18T21:11:46.817803+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "O Anjo do Senhor (Angelus) | Reze conosco",
+  "video_id": "6d_dV7IZsoU",
+  "imagens": [
+   "File:El GRECO (Domenikos Theotokopoulos) - Annunciation - Google Art Project.jpg",
+   "File:'The Annunciation' by Juan de Flandes, Cincinnati Art Museum.JPG",
+   "File:JEAN-FRANÇOIS MILLET - El Ángelus (Museo de Orsay, 1857-1859. Óleo sobre lienzo, 55.5 x 66 cm).jpg",
+   "File:Fra Angelico - The Annunciation - WGA0454.jpg",
+   "File:Icon of Mary - Cathedral of the Blessed Virgin Mary, Hamilton NZ.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "angelus",
+  "santo": null,
+  "link": null
  }
 ]
