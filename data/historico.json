@@ -1318,5 +1318,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-18T09:11:41.202320+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-18",
+  "titulo": "Evangelho do Dia 18/11 | Foste fiel em coisas pequenas (Lc 19,11-28)",
+  "video_id": "MNDelCNPkTQ",
+  "imagens": [
+   "File:Christ Teaching the Disciples, 2, from Das Plenarium MET DP849939.jpg",
+   "File:Joseph Brett - Christ and His Disciples - 1954.664 - Cleveland Museum of Art.jpg",
+   "File:Gospel Book, Parable of the Vineyard, Walters Manuscript W.540, fol. 60r.jpg",
+   "File:Christ Pantocrator (wooden icon with candlestick, Russia).jpg",
+   "File:Russian Jewelled Icon of Christ Pantocrator.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
