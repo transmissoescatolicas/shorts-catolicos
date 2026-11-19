@@ -1457,5 +1457,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-19T12:10:06.191497+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-19",
+  "titulo": "Santo do Dia 19/11 | São Roque — Protetor dos enfermos e dos animais",
+  "video_id": "9JcbPLgi1qo",
+  "imagens": [
+   "File:Saint Roch - Giambattista Tiepolo.jpg",
+   "File:81 - Rabastens - L'église Notre-Dame-du-Bourg - Saint Roch soigné par un ange - PalissyPM81000296.jpg",
+   "File:San Rocco Venezia (Interno) - San Rocco risana gli appestati.jpg",
+   "File:31 - Buzet-sur-Tarn - L'église Saint-Martin - Saint-Roch - PalissyPM31002601.jpg",
+   "File:San Sebastiano (Valsolda) - painting Saint Roch with the dog and angels.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "São Roque",
+  "link": null
  }
 ]
