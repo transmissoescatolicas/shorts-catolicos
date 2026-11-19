@@ -1495,5 +1495,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-geral-viagem-apostolica-uruguai-arg-peru.html"
+ },
+ {
+  "data": "2026-11-19T18:11:42.281380+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Pange Lingua Latin | Música Sacra",
+  "video_id": "2teJRTQ6DtQ",
+  "imagens": [
+   "File:Eukaristia elmeto (Schumacher, Katholisches Religionsbüchlein) 001.jpg",
+   "File:Altar of the Sanctuary of the Venerada Santa Cruz during Eucharistic Adoration — Santa Cruz, Pernambuco, Brazil.jpg",
+   "File:Shrine of the Most Blessed Sacrament of Our Lady of the Angels Monastery, Hanceville, Alabama LCCN2010638387.tif",
+   "File:Eucharistic Adoration at st catherine of siena church.jpg",
+   "File:Simala Cebu Adoration 2024-07-06.jpg",
+   "File:Transubstantiation Eucharistic Adoration at St Thomas Aquinas Cathedral in Reno NV USA.jpg",
+   "File:Saint Augustine of Canterbury Church (North York, Toronto) - Adoration Chapel, Eucharistic in a monstrance.jpg",
+   "File:Saint Martin of Tours Church (Louisville, Kentucky) - stained glass, Adoration of the Eucharist.jpg"
+  ],
+  "musica": "File:Pange Lingua Latin in Latin.ogg",
+  "busca_musica": "Pange lingua",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
