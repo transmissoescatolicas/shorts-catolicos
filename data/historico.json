@@ -1517,5 +1517,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-19T21:19:40.269775+00:00",
+  "formato": "oracao",
+  "chave": null,
+  "titulo": "Ave Maria | Reze conosco",
+  "video_id": "zIWjEZZNpWs",
+  "imagens": [
+   "File:La Anunciación (Fra Angelico-Prado).jpg",
+   "File:Visitation by Domenico Ghirlandaio.jpg",
+   "File:Bartolomé Esteban Perez Murillo - Virgin and Child with a Rosary - WGA16360.jpg",
+   "File:Raphael, The Alba Madonna, c. 1510, NGA 26.jpg",
+   "File:Leonardo da Vinci - Virgin and Child with St Anne C2RMF retouched.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": "ave-maria",
+  "santo": null,
+  "link": null
  }
 ]
