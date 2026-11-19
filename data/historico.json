@@ -1476,5 +1476,24 @@
   "oracao": null,
   "santo": "São Roque",
   "link": null
+ },
+ {
+  "data": "2026-11-19T15:11:45.027336+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "Papa Leão XIV recorda a sua recente viagem apostólica pela América do Sul",
+  "video_id": "-KwbXRauvAw",
+  "imagens": [
+   "File:Pope Leo XIV 3 (3x4 cropped).png",
+   "File:Basilica of the National Shrine of Our Lady of Aparecida 2019 64.jpg",
+   "File:Bartolomé Esteban Murillo - Saint Rose of Lima - Google Art Project.jpg",
+   "File:Santo Toribio Alfonso de Mogrovejo, Arzobispo de Lima.jpg",
+   "File:St Martin de Porres statue, St Benedict's, Newton.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-xiv-audiencia-geral-viagem-apostolica-uruguai-arg-peru.html"
  }
 ]
