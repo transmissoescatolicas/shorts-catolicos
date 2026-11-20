@@ -1615,5 +1615,27 @@
   "oracao": null,
   "santo": null,
   "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-associacao-catolica-assistencia-social-solidariedade-eua.html"
+ },
+ {
+  "data": "2026-11-20T18:13:13.592699+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Ave Verum Corpus — Wolfgang Amadeus Mozart | Música Sacra",
+  "video_id": "rPweJT7tDng",
+  "imagens": [
+   "File:The Adoration of the Eucharist.jpg",
+   "File:Francesco Solimena (1657-1747) (attributed to) - Adoration of the Eucharist - NMW A 5067 - National Museum Cardiff.jpg",
+   "File:Peter Paul Rubens - The Adoration of the Eucharist - 1937.1012 - Art Institute of Chicago.jpg",
+   "File:Unknown artist, The Adoration of the Eucharist, oil on copper, after a bozzetto by Peter Paul Rubens, after 1627.jpg",
+   "File:Willem Vrelant (Flemish, died 1481, active 1454 - 1481) - The Adoration of the Eucharist - Google Art Project.jpg",
+   "File:Angels in adoration of the Eucharist, which is presented on Wellcome V0035755.jpg",
+   "File:(Venice) Institution of the Eucharist by Giandomenico Tiepolo - Gallerie Accademia.jpg",
+   "File:Federico Barocci - The Institution of the Eucharist - WGA01290.jpg"
+  ],
+  "musica": "File:Ave verum Mozart Senftenberg2008.ogg",
+  "busca_musica": "Ave verum corpus",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
