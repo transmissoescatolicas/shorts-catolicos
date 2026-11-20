@@ -1558,5 +1558,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-20T09:12:10.096101+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-20",
+  "titulo": "Evangelho do Dia 20/11 | Minha casa será casa de oração (Lc 19,45-48)",
+  "video_id": "XDcd_kmn3qA",
+  "imagens": [
+   "File:Stradanus - Cleansing of the Temple.jpg",
+   "File:El Greco - Cleansing of the Temple completepainting0000gudi z1t4 0210.jpg",
+   "File:Jesus Chasing the Merchants from the Temple.jpg",
+   "File:Luca Giordano - Expulsion of the Moneychangers from the Temple - WGA9007FXD.jpg",
+   "File:Christ Pantocrator Daphni Monastery.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
