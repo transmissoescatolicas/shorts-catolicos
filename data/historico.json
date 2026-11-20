@@ -1577,5 +1577,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-20T12:09:09.081001+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-20",
+  "titulo": "Santo do Dia 20/11 | São Edmund — Rei e Mártir da Igreja",
+  "video_id": "R2b0rj4pH_A",
+  "imagens": [
+   "File:Wilton diptych; left-hand panel.jpg",
+   "File:-2021-09-02 Saint Edmund the Martyr panel on the rood screen, St John the Baptist church, Trimingham, Norfolk.JPG",
+   "File:Salisbury Cathedral St Edmund the Martyr.jpg",
+   "File:St Edmund- woodcarving, St Edmundsbury cathedral.jpg",
+   "File:Ss Peter and Thomas' Church, Stambourne, Essex - rood screen painted medieval panels.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "São Edmund",
+  "link": null
  }
 ]
