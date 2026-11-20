@@ -1536,5 +1536,27 @@
   "oracao": "ave-maria",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-20T00:12:10.922753+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Mass in B minor: Agnus Dei — Johann Sebastian Bach | Música Sacra",
+  "video_id": "xtge-n5wAkI",
+  "imagens": [
+   "File:2017-05-25 Latin cathedral, Lviv - interior.jpg",
+   "File:Francisco de Zurbarán 006.jpg",
+   "File:2017-05-25 Latin cathedral, Lviv - interior 4.jpg",
+   "File:Dieric Bouts - Ecce agnus Dei - WGA2968.jpg",
+   "File:The Ghent Altarpiece The Adoration of The Mystic Lamb Detail.jpg",
+   "File:2017-05-25 Latin cathedral, Lviv - interior 2.jpg",
+   "File:Giovanni di Paolo - Ecce Agnus Dei - Google Art Project.jpg",
+   "File:Ghent Altarpiece D - Lamb.jpg"
+  ],
+  "musica": "File:Johann Sebastian Bach - Mass in B minor - Agnus Dei.ogg",
+  "busca_musica": "Mass in B minor Bach",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
