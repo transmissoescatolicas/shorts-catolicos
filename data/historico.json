@@ -1716,5 +1716,24 @@
   "oracao": null,
   "santo": "Apresentação da Virgem Maria",
   "link": null
+ },
+ {
+  "data": "2026-11-21T15:11:07.228837+00:00",
+  "formato": "papa",
+  "chave": null,
+  "titulo": "O Papa aos jovens: a fé é amizade com Jesus e a santidade é um dom",
+  "video_id": "RDsXwwzDppw",
+  "imagens": [
+   "File:St Peters Basilica Statues amk.jpg",
+   "File:Vatican City (VA), Petersdom -- 2013 -- 3902.jpg",
+   "File:Facade of St Peters Basilica in morning light.jpg",
+   "File:Basílica de San Pedro, Ciudad del Vaticano, 2022-09-14, DD 19-21 HDR.jpg",
+   "File:Dome of Saint Peter's Basilica (Interior).jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": "https://www.vaticannews.va/pt/papa/news/2026-11/papa-cultura-poder-desafio-guerra-envenena-encontro.html"
  }
 ]
