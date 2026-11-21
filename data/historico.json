@@ -1656,5 +1656,27 @@
   "oracao": "gloria",
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-21T00:13:50.632979+00:00",
+  "formato": "musica",
+  "chave": null,
+  "titulo": "Antiphona et Magnificat — Schola Gregoriana | Música Sacra",
+  "video_id": "dC6STncmZEg",
+  "imagens": [
+   "File:La Anunciación, by Fra Angelico, from Prado in Google Earth - main panel.jpg",
+   "File:De Champaigne, Philippe, The Visitation, 1643-48.jpg",
+   "File:Madonna of the Magnificat.png",
+   "File:Francisco de zurbaran, magnificat alma mea.jpg",
+   "File:Jean André (1662-1753) (attributed to) - The Visitation - 732341 - National Trust.jpg",
+   "File:The Visitation by Angelus Bizamanus.jpg",
+   "File:The Virgin of the Angels (1895), by Giulio Aristide Sartorio.jpg",
+   "File:Botticelli, Sandro - Maria met Kind en engelen - 18bis - Grand Seminary Mechelen.jpg"
+  ],
+  "musica": "File:Schola Gregoriana-Antiphona et Magnificat.ogg",
+  "busca_musica": "Magnificat",
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
