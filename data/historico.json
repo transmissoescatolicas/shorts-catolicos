@@ -1678,5 +1678,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-21T09:11:50.754050+00:00",
+  "formato": "evangelho",
+  "chave": "evangelho:2026-11-21",
+  "titulo": "Evangelho do Dia 21/11 | Quem é minha mãe e meus irmãos (Mt 12, 46-50)",
+  "video_id": "hRreFrr7suo",
+  "imagens": [
+   "File:Holy Family Catholic Church (Oldenburg, Indiana) - exterior detail, Holy Family statue.jpg",
+   "File:Statue of the Holy Family (St. Gabriel the Archangel Parish).jpg",
+   "File:Holy Family Catholic Church (Oldenburg, Indiana) - interior, altar of the Blessed Virgin Mary.jpg",
+   "File:Holy Family Catholic Church (Oldenburg, Indiana) - interior, altar of Saint Joseph, with Saint Aloysius.jpg",
+   "File:Rubens, Peter Paul - The Assumption of the Virgin - ca. 1611-1612.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": null,
+  "link": null
  }
 ]
