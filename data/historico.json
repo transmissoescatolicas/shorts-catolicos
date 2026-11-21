@@ -1697,5 +1697,24 @@
   "oracao": null,
   "santo": null,
   "link": null
+ },
+ {
+  "data": "2026-11-21T12:11:55.192818+00:00",
+  "formato": "santo",
+  "chave": "santo:2026-11-21",
+  "titulo": "Santo do Dia 21/11 | Apresentação da Virgem Maria — A Apresentação da Virgem Maria",
+  "video_id": "wbOCd24Bl80",
+  "imagens": [
+   "File:Toledo 017.jpg",
+   "File:Presentation-of-the-Virgin.jpg",
+   "File:Peter de Kempeneer - The Presentation of the Virgin in the Temple with Saints Anne and Joachim 2008 CKS 07575 0034.jpg",
+   "File:Église Saint-Sauveur de Plancoët, Côtes d'Armor, baie 14, Marie au temple IMGP1108.jpg",
+   "File:Folio 137r - The Presentation of the Virgin.jpg"
+  ],
+  "musica": null,
+  "busca_musica": null,
+  "oracao": null,
+  "santo": "Apresentação da Virgem Maria",
+  "link": null
  }
 ]
